@@ -13,4 +13,4 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-[项目演示地址](http://ustbhuangyi.com/sell/)
+[项目演示地址](http://ustbhuangyi.com/music/)
